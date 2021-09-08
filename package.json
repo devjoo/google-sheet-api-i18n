@@ -1,0 +1,22 @@
+{
+  "name": "leejiwoo-i18next-test",
+  "version": "1.0.0",
+  "description": "https://meetup.toast.com/posts/295에서 참조 (https://theoephraim.github.io/node-google-spreadsheet/#/getting-started/authentication?id=authentication])",
+  "main": "index.js",
+  "dependencies": {
+    "i18next": "^20.4.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "google-spreadsheet": "^3.1.15",
+    "i18next-scanner": "^3.0.0"
+  },
+  "scripts": {
+    "scan:i18n": "i18next-scanner --config i18next-scanner.config.js",
+    "upload:i18n": "npm run scan:i18n && node translate/upload.js",
+    "download:i18n": "node translate/download.js",
+    "serve": "npm run download:i18n && vue-cli-service serve"
+  },
+  "author": "leejiwoo",
+  "license": "ISC"
+}

@@ -1,0 +1,4 @@
+# locale json files
+/assets/locales/
+/.idea/
+/node_modules/

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leejiwoo-work",
+  "private_key_id": "3c66b32f7394e3cac51c57a5284dc9ad9250f760",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSeJF3G2Yo/ozL\nzVv+JHKuMLYFApTjacHd7INvqd30G0pJbm4hLeHJVbjV2MnMeOVEt0OzMy+Nlu7o\namoutl2qdS2I6RG6MrhybyMQsLvEZvc28fryUZEwa6j/T7ACeaGNrpXmNrnaqypg\nLDzWVQHegjEq7Qh1BoiatMw1x913Sj9YRYGAFrVjX4350aJC1SiT8H/L9wMSUWwD\nbi3BXpQwZyZJ2q0/5iJmDNcKnqLcOsGI6F3BjOe9A1B912/57BZjwYqJ4pz50O6M\n7Qo/NeguTBhjHzYLkdrQcdgXamzwiK/uenrAQ9DjNtlDIfI+vDoVQPxY7RrCwqWb\nBzacDvjPAgMBAAECggEABl+JRBqLyuT+XXN//B+da2HlORydZo9+w9oUFs8Ffg1P\ngA68ffu2MRML8EnKvorQonaMMcJ0h6yQ2m/SfEygZHd84/7uvv0nMavk224GmYlm\npf7I0wqeQ2GXMff3Q/Pr7O7i8iApG5KAS347b2AOmO7HT13zGhwTCeA8qMo/Dgwe\n8sY09sd76Az0sdqu6IPIjKW8iZI97u7SqK2p9bPh4shFIjPZ5lq/R6uh8Xshbbmp\n7Aw8ELw48AHDEZ+xod/TlsC3l+dGwhdH8naVIZ1Sbd0uC/A0V1pv6l4osfmJ/DrU\nQG8HRt8cj5kTTit7OVYTN1ODfm/s/G4zO6an5m9pFQKBgQDwrCvxFUluCMhucAj9\neiN4iW3hxRWfln+xyhhgcMgflspGxz8Flti+T0s7dDT90L9DRUnINn1ZEjC3UN7U\ns5tLooZONWuVdZIow9EB5nY7JWLOfTk/9+9GHwULh1t6mMqQ2C174ng5Rtwp4Xn/\nzOwr33d9CUWuUW/3+qf9HeN18wKBgQDf4ACSayGOXR+jRX5/3U8wJZAz8wr9jSL8\nRYxqY6Ky8z9b7xlJl8/XO1bIA2huTZU1rKtnsAvsSqCqaXAoAS1SY0e0ODsWj+ok\n068D//A9GoF0lOsmUK44e8Bh/d8XyFGikYYdhEiqi/Qki81OYWQj9ZSAafr1+ZZR\nSCaFyNIctQKBgFN9dtTwbIPGejmNliDQ0SNMkZjjtOei3vN/R0uVdGc4+Tzqe9tl\nhBUpDtE2M/flBaTBkaHp/Tv8Cnhdjp+9Gt93Jx5Ue9jia2zG2WfOWi+UfZ1iZYzi\nZtgthKOGNl7mSEdNJyI14z0Dbvb8aEUsArYJlLsEj260g6JECyjMyI6vAoGBANnz\nnzrst2d8+78defELyPtLpp8cv5dnHydQoko1JAFp1UYweYLvHDYjG/Jvduzj9R6j\nMuAoQQNTCCW/rqQTuUbbRsSKdeQaSc5+k4WmVwF125BfJqtPor10pTABU38401kc\nqd/0mDYJOK+Xt1HWeQKVJHT8OInd6dzKDE702rF9AoGAdRbKQOh88gmwtWIW3vDt\nP1b6D+WUephuosgvqgRthSGnyzZF6GsGyUwbaxC9sgezQXJipu7CrTI+WyXFIvBM\npnfinF9Lw24DHQFh2zAonBDiMhGvOKifJBURR5KRXY+WGpCJAxv/QCE7ZNBSlTIh\nDm4gRrxgNpUI6IjSFgEfRAM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "master@leejiwoo-work.iam.gserviceaccount.com",
+  "client_id": "107258405090374627494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/master%40leejiwoo-work.iam.gserviceaccount.com"
+}
